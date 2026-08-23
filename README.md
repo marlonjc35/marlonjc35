@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Marlon Gomes de Paula
 
-🎯 Objetivo: Conseguir um estágio em desenvolvimento Full-Stack ou qualquer outra função, aplicar meus conhecimentos em projetos e também apreender!
+🎯 Objetivo: Conseguir um estágio em desenvolvimento Full-Stack ou qualquer outra função, aplicar meus conhecimentos em projetos e também aprender ao longo da carreira!
 🚀 Desenvolvedor Full Stack em formação | ADS | Técnico em Informática
 💻 Tecnologias principais: JavaScript, TypeScript, React, Node.js, Python, HTML, CSS.  
 📍 Localização: Rio de Janeiro – Brasil  
