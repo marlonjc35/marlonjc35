@@ -13,10 +13,6 @@
 Site institucional feito com **Next.js + Tailwind + Nodemailer**.  
 📌 Demonstra integração frontend + backend e envio de e-mails.
 
-### 🔹 [Netflix Clone](https://github.com/marlonjc35/netflix-clone)
-Clone da interface da Netflix com **React**.  
-📌 Mostra domínio de UI/UX e consumo de dados.
-
 ### 🔹 [Sistema de Ordens de Serviço](https://github.com/marlonjc35/sistema-ordens-servico)
 Aplicação backend em **Node.js** para gestão de ordens de serviço.  
 📌 CRUD completo e lógica de negócios.
